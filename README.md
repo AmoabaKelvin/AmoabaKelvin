@@ -17,7 +17,7 @@
   <a href="http://www.kelvinamoaba.me">
     <img src="https://img.shields.io/badge/WEBSITE-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
   </a>
-  <a href="https://t.me/k_moaba">
+  <a href="https://t.me/a_moaba">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
