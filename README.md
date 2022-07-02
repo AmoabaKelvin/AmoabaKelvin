@@ -91,7 +91,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=amoabakelvin&show_icons=true&locale=en" alt="amoabakelvin" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoabakelvin&show_icons=true&locale=en&layout=compact" alt="amoabakelvin" height="195px"/>
 </div>
 
 <!---
