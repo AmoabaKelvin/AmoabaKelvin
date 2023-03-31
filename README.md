@@ -28,9 +28,16 @@
 
 ## Glad to see you here!
 
-I am a backend developer and writer. I love programming, writing and teaching.
+Greetings and salutations, fellow coders! 
 
-As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I'm a software engineer with a passion for creating amazing digital experiences, whether it's on the frontend, backend, or somewhere in between. Some might say I'm a "full-stack" engineer, but honestly, I just like to think of myself as a "pancake stack" engineer - because who doesn't love a good stack of pancakes, am I right?  
+
+When it comes to coding, I'm comfortable working in a variety of languages, frameworks, and platforms, from NextJS and React on the frontend, to Node.js and Python on the backend. Whether I'm crafting a sleek and intuitive UI, optimizing server performance, or wrangling data, I'm always looking for ways to push the boundaries and create something truly exceptional.  
+
+Of course, being a programmer isn't all about writing code - it's also about building connections 🕸️ and collaborating with others 🧗‍♂️. That's why I'm always on the lookout for new opportunities to work with talented and driven individuals, whether it's on an open-source project or a commercial venture.
+
+So if you're looking for a developer who's equal parts creative, strategic, and downright hilarious (if I do say so myself), look no further! I'm always up for a good coding challenge, a lively debate about the merits of different programming languages, or just a good old-fashioned pancake breakfast. Drop me a line and let's build something amazing together!  
+
 
 ### **Talking about Personal Stuffs:**
 
