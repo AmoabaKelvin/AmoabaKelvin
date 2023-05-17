@@ -96,8 +96,6 @@ So if you're looking for a developer who's equal parts creative, strategic, and 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmoabaKelvin&theme=radical)](https://git.io/streak-stats)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=amoabakelvin&show_icons=true&locale=en" alt="amoabakelvin" />
-&nbsp;&nbsp;
 </div>
 
 <!---
