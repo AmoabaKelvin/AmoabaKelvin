@@ -42,7 +42,7 @@ So if you're looking for a developer who's equal parts creative, strategic, and 
 ### **Talking about Personal Stuffs:**
 
 - 🔭 &nbsp;&nbsp; I’m currently working on **something cool**
-- 🌱 &nbsp;&nbsp; I’m currently learning **Data Structures and Algorithms**
+- 🌱 &nbsp;&nbsp; I’m currently learning **System Design**
 - 💬 &nbsp;&nbsp; Ask me about anything, I am happy to help;
 - 👯 &nbsp;&nbsp; I’m looking to collaborate on **anything cool**
 - 📝 &nbsp;&nbsp; I regulary write articles on [dev.to](https://dev.to/amoabakelvin)
